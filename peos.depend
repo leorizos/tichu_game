@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1587136065 source:c:\users\user\desktop\c++ tests\peos\main.cpp
+	<string>
+	<cstdlib>
+	<iostream>
+	"player.h"
+
+1587135049 source:c:\users\user\desktop\c++ tests\peos\player.cpp
+	"player.h"
+
+1587136045 c:\users\user\desktop\c++ tests\peos\player.h
+	<string>
+	<cstdlib>
+	<iostream>
+	"hand.h"
+
+1587135919 c:\users\user\desktop\c++ tests\peos\hand.h
+	<string>
+
+1587135919 source:c:\users\user\desktop\c++ tests\peos\hand.cpp
+	<cstdlib>
+	<iostream>
+	"hand.h"
+
